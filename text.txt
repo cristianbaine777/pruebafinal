@@ -1,1 +1,100 @@
+# 🌎 Proyecto: Cambio Climático
 
+## 👤 Integrantes
+Nombre del estudiante:
+Nombre del equipo (si aplica):
+cristian nuñez
+---
+
+## 📌 1. ¿Cuál es el problema?
+el cambio climatico
+Explica qué problema relacionado con el cambio climático busca solucionar tu proyecto.
+
+1. Transporte
+2. Consumo eléctrico en casa
+3. mostrar noticias sobre el cambio climatico
+
+Puedes hablar sobre:
+El calentamiento global.
+La contaminación del aire.
+La deforestación.
+El exceso de residuos.
+El consumo de energía.
+La contaminación del agua.
+
+## 💡 2. ¿Cuál es nuestra idea?
+
+
+Describe brevemente la idea principal del proyecto.
+ingresar los km viaja a la semana y indicar cuanto tenes que usar el transporte publico o ir en bicicleta
+Elegir qué electrodomésticos usa (aire acondicionado,etc) y cuántas horas Mostrar el gasto energético y dar consejos puntuales
+mostrar noticias 
+
+¿Qué queremos crear y cómo se relaciona con el problema identificado?
+se relaciona dando consejos para ayudarlos
+haciendo consientizar a las personas sobre el cambio climatico
+
+## 🎯 3. ¿Cuál es el objetivo del proyecto?
+es crear una web para hacer que la gente concientize sobre esta causa y logre reducir el cambio climatico
+Explica qué quieres conseguir con tu proyecto y qué cambio positivo esperas generar.
+espero lograr reducir el cambio climatico
+## ⚙️ 4. ¿Cómo funciona?
+funciona mediante una pantalla inicial que indique noticias calculadora de electronicos y sobre los automoviles
+Describe cómo funciona tu proyecto.
+¿Qué puede hacer el usuario?
+¿Qué sucede cuando alguien utiliza el proyecto?
+funcionar
+¿Cuáles son sus principales funciones?
+la calculadora energetica y de automovil
+
+## 👥 5. ¿Quiénes utilizarían nuestro proyecto?
+
+Describe quiénes podrían utilizar esta solución.
+cualquier persona que quiera cuidar el medio ambiente
+
+Por ejemplo:
+Estudiantes.
+Profesores.
+Familias.
+Comunidades.
+Empresas.
+
+## 🌱 6. ¿Cómo ayuda al medio ambiente?
+
+ayudandolo a sanar poco a poco
+
+Explica de qué manera tu proyecto contribuye a combatir el cambio climático o a crear conciencia sobre el cuidado del planeta.
+
+## 💻 7. ¿Qué herramientas utilizamos?
+html, visual,phyton
+Menciona los lenguajes de programación, plataformas y herramientas utilizadas.
+
+Por ejemplo:
+Python.
+HTML y CSS.
+JavaScript.
+Pygame.
+Visual Studio Code.
+GitHub.
+
+## 🧠 8. ¿Qué aprendimos?
+
+Describe los conocimientos y habilidades que desarrollaste durante la creación del proyecto.
+
+## 🚧 9. ¿Qué dificultades encontramos?
+
+Explica cuáles fueron los principales problemas durante el desarrollo y cómo intentaste solucionarlos.
+
+## 🚀 10. ¿Qué mejoraríamos en el futuro?
+
+Menciona nuevas funciones, características o ideas que te gustaría agregar al proyecto.
+
+## 📸 11. Imágenes del proyecto
+
+Agrega capturas de pantalla que permitan observar cómo funciona tu proyecto.
+
+Puedes incluir imágenes de:
+Pantalla principal.
+Funciones principales.
+Resultados del proyecto.
+Diferentes secciones o funcionalidades.
